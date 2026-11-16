@@ -139,11 +139,6 @@ cv:
       - name: American Sign Language 
         summary: "Beginner-Intermediate"
 
-    Interests:
-      - name: Economics and Law
-        icon: fa-solid fa-tag
-        keywords: "Development Economics", "Behavioral Economics", "Law"
-
     References:
       - name: idk 
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
